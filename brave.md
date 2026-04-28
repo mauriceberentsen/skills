@@ -1,5 +1,3 @@
-Zet dit in SKILL.md:
-
 # Brave Search MCP Skill
 Use this MCP server when the user asks for information that may be current, external, niche, or not available in the model context.
 The Brave Search MCP server provides web search, local business search, image search, video search, news search, LLM-context search, and summarization capabilities through the Brave Search API. It can be used to ground answers with live web results and reduce hallucinations.  [oai_citation:0‡GitHub](https://github.com/brave/brave-search-mcp-server?utm_source=chatgpt.com)
